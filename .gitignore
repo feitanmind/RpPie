@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+RpPie.MVC/appsettings.json
+RpPie.MVC/appsettings.Development.json
